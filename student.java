@@ -1,5 +1,6 @@
 import java.io.*;
-class student1
+import java.util.*;
+class student
 {
 public static void main(String args[])
 {
