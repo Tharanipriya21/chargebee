@@ -21,7 +21,6 @@ array[i]=array[j];
 array[j]=temp;
 }
 }
-printf("printing the elements in a descending order");
 for(i=0;i<n;i++)
 printf("%d\n",array[i]);
 getch();
